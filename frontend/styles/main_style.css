@@ -1,0 +1,25 @@
+body, #outlet {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+main {
+    padding: 2em;
+    text-align: center;
+}
+#canvas {
+    margin: 3em;
+    text-align: center;
+}
+#nodes_body div {
+    margin: 5px;
+}
+
+#nodes_body button {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+button{
+    border-radius: 15%;
+}
